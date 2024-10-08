@@ -9,9 +9,15 @@
 </head>
 <body>
     <h1> 정우민의 인공지능 놀이터</h1>
-    <input>
-    <button>버튼</button>
-    
+    <textarea id = "textMsg" clos = "30" rows = "3"></textarea>
+    <button onclick="talk()" id = "btnSend">물어보기</button>
+    <button onclick="draw()" id = "btnDraw">그리기</button>
+    <br>
+    <hr>
+    <textarea id ="txtOut" cols = "50" row = "10"></textarea>
+     
+    <img id = "gimage" style = "border:5px solid #555">
+    <img id = "gimage2" style = "border:5px solid #555">
     
 </body>
 </html>
