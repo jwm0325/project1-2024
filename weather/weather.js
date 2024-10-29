@@ -44,7 +44,7 @@
             .then(function() {});
 
             
-    ㅌ``
+    
         
     }
     get_weather()
