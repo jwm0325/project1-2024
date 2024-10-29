@@ -108,5 +108,12 @@ $.ajax({
 3. 커밋애 푸쉬
 4. 커밋메시지
 
+**git 설정**
+
+git config --global user.name "Lee"
+
+git config --global user.email "leo@shingu.ac.kr"
+
+
 2024-9-10 깃허브연동실습
 로컬에서 편집함
